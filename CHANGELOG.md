@@ -1,3 +1,10 @@
+## [2.1.7](https://github.com/cric96/build-check-deploy-gradle-action/compare/2.1.6...2.1.7) (2024-04-02)
+
+
+### Dependency updates
+
+* **core-deps:** update codecov/codecov-action action to v3.1.6 ([d9c7f2c](https://github.com/cric96/build-check-deploy-gradle-action/commit/d9c7f2c50942888230c369066b412d64b989c2ee))
+
 ## [2.1.6](https://github.com/cric96/build-check-deploy-gradle-action/compare/2.1.5...2.1.6) (2024-04-02)
 
 
