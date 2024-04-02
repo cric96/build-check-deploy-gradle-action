@@ -1,3 +1,17 @@
+## [2.1.6](https://github.com/cric96/build-check-deploy-gradle-action/compare/2.1.5...2.1.6) (2024-04-02)
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/template-for-gradle-plugins digest to 3d66256 ([596ebc0](https://github.com/cric96/build-check-deploy-gradle-action/commit/596ebc00aaf2b8dccfbcd0ed0876b268ff3048ea))
+* **deps:** update danysk/template-for-gradle-plugins digest to 6d13fba ([ecb0a6a](https://github.com/cric96/build-check-deploy-gradle-action/commit/ecb0a6aafce7e581fb2140ef79af2f405a11b835))
+* **deps:** update danysk/template-for-gradle-plugins digest to 71cf43f ([8d7490d](https://github.com/cric96/build-check-deploy-gradle-action/commit/8d7490dc8497ea64058532271034aad535fbbde7))
+
+
+### Dependency updates
+
+* **core-deps:** update actions/cache action to v3.0.11 ([2c7f53b](https://github.com/cric96/build-check-deploy-gradle-action/commit/2c7f53ba244e612bdd0475738d3e18fc0e907e0c))
+
 ## [2.1.5](https://github.com/DanySK/build-check-deploy-gradle-action/compare/2.1.4...2.1.5) (2022-08-22)
 
 
