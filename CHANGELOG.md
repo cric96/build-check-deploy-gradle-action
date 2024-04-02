@@ -1,3 +1,10 @@
+## [2.1.8](https://github.com/cric96/build-check-deploy-gradle-action/compare/2.1.7...2.1.8) (2024-04-02)
+
+
+### Dependency updates
+
+* **core-deps:** update gradle/wrapper-validation-action action to v1.0.6 ([19c018e](https://github.com/cric96/build-check-deploy-gradle-action/commit/19c018e389d30f310a1bccb980c6b30ae8a9b3f3))
+
 ## [2.1.7](https://github.com/cric96/build-check-deploy-gradle-action/compare/2.1.6...2.1.7) (2024-04-02)
 
 
